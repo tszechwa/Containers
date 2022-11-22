@@ -1,4 +1,3 @@
-# Containers
 ![STL](./images/container.png)
 
 **The project is a proprietary implementation of the STL library.**
